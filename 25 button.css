@@ -1,0 +1,53 @@
+ .uber{
+                color: white;
+                background-color: black;
+                border: 1px;
+                padding: 10px;
+        }
+        .amazon{background-color: rgb(206, 157, 66);
+                border: none ;
+                border-radius: 20px;
+                width: 200px; height: 40px;
+        }
+        .git{
+            border: 0;
+            color: white;
+            background-color: green;
+            height: 40px;
+            width: 100px;
+            border-radius: 4px;
+
+        }
+        .booth1{
+             border: 0;
+            color: rgb(255, 255, 255);
+            background-color: rgb(80, 47, 86);
+            height: 40px;
+            width: 100px;
+            border-radius: 3px;
+           
+
+        }
+        .booth2{
+              border: 20;
+            color: rgb(80, 47, 86);
+            background-color: white;
+            height: 40px;
+            width: 100px;
+            border-radius: 3px;
+   
+        }
+        .link1{background-color: rgb(44, 96, 201);
+                border: none ;
+                border-radius: 20px;
+                width: 200px; height: 40px;
+                color: white;
+            }
+        .link2{
+            background-color: white;
+                border: 3;
+                border-radius: 20px;
+                width: 70px; height: 40px;
+                color: rgb(44, 96, 201);
+                border-color:rgb(44, 96, 201) ;
+        }

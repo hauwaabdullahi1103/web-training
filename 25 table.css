@@ -1,0 +1,9 @@
+h2{color: brown;}
+ table{
+        border-collapse: collapse;
+        padding: 50px;
+        border-radius: 2px; }
+th, td{
+        padding: 15px; }
+.th{background-color: rgb(181, 179, 176);}
+  body {background-color: lightgray;}
