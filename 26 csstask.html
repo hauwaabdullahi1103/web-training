@@ -12,29 +12,36 @@
             color: aliceblue;
             font-size: large;
             text-shadow: 30px;
-            text-size-adjust: ;
+        size: 50px;
         }
-        td,tr{padding: 50px;  }
+        .head{
+            height: 200px;
+        }
+        .tail{height: 50px;
+
+        }
+
+        
     </style>
 </head>
-<body>
-    <table border="none">
-        <tr>
-            <td align="center" colspan="2" style="background-color: rgb(18, 148, 135);" >Header</td>
+<body><center>    <table border="none" >
+        <tr >
+            <td   align="center" colspan="2" style="background-color: rgb(18, 148, 135);" class="tail">Header</td>
         </tr>
         <tr>
-            <td align="center" colspan="2" style="background-color: rgb(47, 124, 75);">Navigation</td>
+            <td align="center" colspan="2" style="background-color: rgb(47, 124, 75);" class="tail" >Navigation</td>
         </tr>
         <tr>
-            <td rowspan="2" align="center" style="background-color: rgb(115, 176, 146);">Aside</td>
-            <td align="center" style="background-color: rgb(44, 143, 190);">content</td>
+            <td rowspan="2" align="center" style="background-color: rgb(115, 176, 146);" class="head">Aside</td>
+            <td align="center" style="background-color: rgb(44, 143, 190);" class="head">content</td>
         </tr>
         <tr>
-            <td align="center" style="background-color: rgb(6, 58, 100);">Section</td>
+            <td align="center" style="background-color: rgb(6, 58, 100);" class="head">Section</td>
         </tr>
         <tr>
-            <td colspan="2" align="center" style="background-color: rgb(18, 148, 135);" >Footer</td>
+            <td colspan="2" align="center" style="background-color: rgb(18, 148, 135);" class="tail">Footer</td>
         </tr>
-    </table>
+    </table></center>
+
 </body>
 </html>
