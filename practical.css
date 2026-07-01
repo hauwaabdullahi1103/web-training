@@ -1,0 +1,14 @@
+h1{
+    color: beige;
+    background-color: rgb(89, 41, 41);
+    height: 50px;
+
+}
+button{
+     color: beige;
+    background-color: rgb(89, 41, 41);
+    padding: 50px 100px;
+    text-align: center;
+    scrollbar-arrow-color: black;
+    
+}
